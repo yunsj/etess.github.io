@@ -1,4 +1,4 @@
-# yunsj.github.io
-Trying out Web BLE API
+# etess.github.io
+"etess Battery" Web BLE OTA
 
-[`yunsj.github.io`](https://yunsj.github.io/)
+[`etess.github.io`](https://etess.github.io/)
